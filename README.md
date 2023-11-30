@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajivpathak-git
-- 👀 I’m interested in Bioinformatics for application in genomic data analysis, pattern recognition, and disease prediction
+- 👀 I’m interested in leveraging Artificial Intelligence to solve current hurdles in drug discovery, mainly emphasizing on solving drug resistance challenges in Chemotherapy
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on python based data science projects on biological data analysis
 - 📫 How to reach me [...](https://www.linkedin.com/in/rajiv-pathak-aa76b4157/)
